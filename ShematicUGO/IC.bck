@@ -1,7 +1,23 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ADuM4160
+D Full/Low Speed 5 kV USB Digital Isolator
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADuM4160.pdf
+$ENDCMP
+#
+$CMP B0503S
+D XP Power 1W, 1000 VDC Isolated DC/DC Converter Module, Output Voltage 3.3V, 100mA, 5V Input Voltage, SIP
+K XP_POWER DC/DC isolated Converter module
+F https://www.terraelectronica.ru/pdf/show?pdf_file=%252Fds%252Fpdf%252FB%252FB_S-1WR3.pdf
+$ENDCMP
+#
 $CMP LAN8720
 F http://ww1.microchip.com/downloads/en/devicedoc/00002165b.pdf
+$ENDCMP
+#
+$CMP TSYS01
+D Digital temperature sensor
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7FTSYS01%7FA%7Fpdf%7FEnglish%7FENG_DS_TSYS01_A.pdf%7FG-NICO-018
 $ENDCMP
 #
 #End Doc Library
