@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP DS1110-01-5
+D Разъем миниатюрный 5pin
+F https://static.chipdip.ru/lib/865/DOC001865143.pdf
+$ENDCMP
+#
 $CMP GCT_USB4085-GF-A
 D USB Type-C connector
 F https://www.digikey.com/product-detail/en/gct/USB4085-GF-A/2073-USB4085-GF-ACT-ND/9859733
